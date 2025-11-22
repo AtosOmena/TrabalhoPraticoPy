@@ -6,6 +6,9 @@ Responsável por:
 3. Inicializar a aplicação Tkinter
 """
 
+# Equipe:
+# Atos Brito Omena
+
 import tkinter as tk
 from tkinter import ttk
 import sys
