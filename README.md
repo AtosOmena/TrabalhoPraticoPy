@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Implementação completa do clássico Jogo da Forca em Python com interface gráfica (Tkinter), seguindo princípios de **Clean Architecture** e boas práticas de desenvolvimento.
 
