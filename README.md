@@ -108,7 +108,7 @@ Se uma janela aparecer, o Tkinter está instalado corretamente.
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com/AtosOmena/TrabalhoPraticoPy.git
+git clone https://github.com/AtosOmena/TrabalhoPraticoPy
 cd TrabalhoPraticoPy
 ```
 
