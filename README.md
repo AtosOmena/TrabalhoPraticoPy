@@ -11,13 +11,11 @@ Implementação completa do clássico Jogo da Forca em Python com interface grá
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
-- [Requisitos Atendidos](#-requisitos-atendidos)
 - [Arquitetura](#-arquitetura)
 - [Instalação](#-instalação)
 - [Como Usar](#-como-usar)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Tecnologias](#-tecnologias)
-- [Autor](#-autor)
 
 ---
 
